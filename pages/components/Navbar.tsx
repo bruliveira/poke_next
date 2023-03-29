@@ -6,7 +6,7 @@ export default function Navbar(){
         <nav>
             <div>
                 <Image  
-                    src="/images/images.pokeball.png" 
+                    src="/images/pokeball.png" 
                     width="30"
                     height="30"
                     alt="PokeNext"
