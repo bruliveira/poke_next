@@ -1,8 +1,8 @@
-
+import styles from "../../styles/Footer.module.scss";
 
 export default function Footer(){
     return(
-        <footer>
+        <footer className={styles.footer}>
             <p>
                 <span>PokeNext</span> &copy; 2021
             </p>
