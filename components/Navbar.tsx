@@ -30,6 +30,11 @@ export default function Navbar(){
                         <a>Sobre</a>
                     </Link>
                 </li>
+                <li>
+                    <Link legacyBehavior href="/about">
+                        <a>Sobre</a>
+                    </Link>
+                </li>
             </ul>
         </nav>
     )
